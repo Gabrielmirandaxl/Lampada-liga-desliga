@@ -1,0 +1,11 @@
+div.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 80vh;
+
+}
+header h1{
+    text-align: center;
+}
